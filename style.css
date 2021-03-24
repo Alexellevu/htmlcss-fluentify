@@ -104,15 +104,20 @@ header{
     height: 500px;
     margin-left: 10%;
     margin-right: 10%;
-    
-    
+}
+
+.colunm_container2{
+    width: 80%;
+    height: 400px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top:2%;
 
 }
 
 .colonna{
     height: 400px;
     width: 32%;
-    
     float: right;
     margin-right: 2px;
 }
@@ -161,8 +166,31 @@ header{
     margin: auto;
     padding-bottom: 20px;
 
+}
+
+.grafico{
+    background-image: url(./img/mountain.svg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 50%;
+    height: 100%;
+    float:left;
+}
+
+.intro{
+    width: 30%;
+    height: 100%;
+    float: right;
 
 }
+
+.intro h2{
+    margin-top:50px;
+    font-size: 35px;
+}
+
+
 
 
 
