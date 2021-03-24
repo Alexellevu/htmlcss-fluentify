@@ -93,6 +93,76 @@ header{
     font-family: 'Roboto', sans-serif;
 }
 
+.central_block{
+    
+    height: 800px;
+
+}
+
+.colunm_container{
+    width: 80%;
+    height: 500px;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    
+
+}
+
+.colonna{
+    height: 400px;
+    width: 32%;
+    
+    float: right;
+    margin-right: 2px;
+}
+
+.central_block:first-child{
+    float:left;
+}
+
+.column_img{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    height:35%;
+    width:100% ;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#img_profile{
+    background-image: url(./img/profile.svg);
+}
+
+#img_computer{
+    background-image: url(./img/computer.svg);
+}
+
+#img_doc{
+    background-image: url(./img/doc.svg);
+}
+
+.colonna h3{
+    text-align: center;
+    color: green;
+    font-size: 25px;
+}
+
+.colonna p{
+    text-align: center;
+    margin-top: 25px;
+
+}
+
+.line{
+    width: 20%;
+    border-bottom:1px solid green;
+    margin: auto;
+    padding-bottom: 20px;
+
+
+}
 
 
 
