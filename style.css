@@ -82,8 +82,18 @@ header{
     padding: 5px 20px 5px;
     background-color: rgb(49, 204, 35);
     border-radius: 2px;
-
+    text-transform: uppercase;
 }
+
+#grey_section{
+    background-color: rgb(184, 159, 159);
+    height: 120px;
+    text-align: center;
+    padding:2.5% ;
+    font-family: 'Roboto', sans-serif;
+}
+
+
 
 
 
