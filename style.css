@@ -93,11 +93,7 @@ header{
     font-family: 'Roboto', sans-serif;
 }
 
-.central_block{
-    
-    height: 800px;
 
-}
 
 .colunm_container{
     width: 80%;
@@ -112,6 +108,7 @@ header{
     margin-left: 10%;
     margin-right: 10%;
     margin-top:2%;
+    margin-bottom: 20px;
 
 }
 
@@ -188,6 +185,11 @@ header{
 .intro h2{
     margin-top:50px;
     font-size: 35px;
+}
+
+footer{
+    height: 150px;
+    background-color: grey;
 }
 
 
